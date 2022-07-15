@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ricardo Abel Argueta López</h1>
-<h3 align="center">Un joven tranquilo. Fan de los juegos, One Piece, y los viajescitos de fin de semana.</h3>
+<h3 align="center">Un joven tranquilo. Fan de los juegos, One Piece, y los viajecitos de fin de semana.</h3>
 
 - 🔭 Actualmente trabajo en **Red Gpon y Wisp.**
 
