@@ -1,0 +1,2 @@
+# RichyA
+Mi repositorio personal.
