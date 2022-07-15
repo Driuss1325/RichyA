@@ -11,7 +11,7 @@
 
 - ⚡ Actitud **¡Siempre al 100!**
 
-<h3 align="left">Conectar con yo:</h3>
+<h3 align="left">Encuéntrame en twitter como:</h3>
 <p align="izquierda">
 <a href="https://twitter.com/richylopez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="richylopez_" height="30" width="40" /></a>
 <a href="https://www.youtube.com /c/ricardolopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /youtube.svg" alt="ricardolopez" height="30" width="40" /></a>
